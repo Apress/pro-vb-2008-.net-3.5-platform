@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AutoLotObjects">
+  <DataContextMoniker Name="/AutoLotObjectsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0bb65b6f-7715-43d0-8e3a-3a74c7ecfb38" absoluteBounds="0.5, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AutoLotObjectsDataContext/CreditRisk" />
+      <nestedChildShapes>
+        <elementListCompartment Id="609f20d9-5f9f-4b37-9714-f3552750b286" absoluteBounds="0.515, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="805d081b-3407-49cd-be10-151a8c81cb18" absoluteBounds="3.125, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AutoLotObjectsDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f9026ef-465e-4a96-b63f-db415232383b" absoluteBounds="3.14, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f70fd0bf-e769-4e16-b820-f3e5736e78c7" absoluteBounds="0.5, 2.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AutoLotObjectsDataContext/Inventory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2edefcf6-2268-4093-8f4a-597b1307d9b4" absoluteBounds="0.51500000000000012, 2.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a4b46343-8aa3-43cb-9d21-7f2bec7a1a29" absoluteBounds="3.125, 2.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AutoLotObjectsDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45195481-20bd-4b47-a0a8-8c45ce1011ef" absoluteBounds="3.1399999999999997, 2.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 1.8862939453125); (4.125 : 2.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AutoLotObjectsDataContext/Customer/Customer_Order" />
+      <nodes>
+        <classShapeMoniker Id="805d081b-3407-49cd-be10-151a8c81cb18" />
+        <classShapeMoniker Id="a4b46343-8aa3-43cb-9d21-7f2bec7a1a29" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 3.16429768880208); (3.125 : 3.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AutoLotObjectsDataContext/Inventory/Inventory_Order" />
+      <nodes>
+        <classShapeMoniker Id="f70fd0bf-e769-4e16-b820-f3e5736e78c7" />
+        <classShapeMoniker Id="a4b46343-8aa3-43cb-9d21-7f2bec7a1a29" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

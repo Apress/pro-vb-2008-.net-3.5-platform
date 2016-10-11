@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="Employees.Employee">
+    <Position X="1" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>Employee.Internal.vb</FileName>
+      <HashCode>AAAAAAAAIAgAggAAAEAIAEQQEAAAAACEAAAAhQAAAUA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Employees.Employee.BenefitPackage">
+        <TypeIdentifier>
+          <NewMemberFileName>Employee.vb</NewMemberFileName>
+        </TypeIdentifier>
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Enum Name="Employees.Employee.BenefitPackage.BenefitPackageLevel">
+            <TypeIdentifier>
+              <NewMemberFileName>Employee.vb</NewMemberFileName>
+            </TypeIdentifier>
+          </Enum>
+        </NestedTypes>
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="Employees.Manager" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Manager.vb</FileName>
+      <HashCode>AAAABAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employees.SalesPerson" Collapsed="true">
+    <Position X="4.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <FileName>SalesPerson.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAgCAAAAAAAAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employees.PTSalesPerson" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PTSalesPerson.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

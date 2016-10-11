@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ee7089c7-0e6a-4745-aa6a-56c9d4479378" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/MathService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MathService.xsd" MetadataType="Schema" ID="6f6425de-ea8c-4370-84ee-9f4012677dec" SourceId="1" SourceUrl="http://localhost:8080/MathService?xsd=xsd0" />
+    <MetadataFile FileName="MathService1.xsd" MetadataType="Schema" ID="2b1c8800-fb0a-4936-a02b-d9543b0ebf54" SourceId="1" SourceUrl="http://localhost:8080/MathService?xsd=xsd1" />
+    <MetadataFile FileName="MathService.wsdl" MetadataType="Wsdl" ID="026328b1-7464-4039-9bc8-f9e95516c623" SourceId="1" SourceUrl="http://localhost:8080/MathService?wsdl=wsdl0" />
+    <MetadataFile FileName="MathService.disco" MetadataType="Disco" ID="f0b5dd10-5892-43fe-a297-e5c67a2f8573" SourceId="1" SourceUrl="http://localhost:8080/MathService?disco" />
+    <MetadataFile FileName="MathService1.wsdl" MetadataType="Wsdl" ID="b8e030b6-b14f-418c-9b08-191094ad8188" SourceId="1" SourceUrl="http://localhost:8080/MathService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

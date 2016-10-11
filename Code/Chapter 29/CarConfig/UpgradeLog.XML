@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CarConfig">
+</Property><Property Name="Solution File" Value="C:\My Books\VB and the .NET Paltform 3rd Ed\Code\Chapter 29\CarConfig\CarConfig.sln">
+</Property><Property Name="Date" Value="Tuesday, January 29, 2008">
+</Property><Property Name="Time" Value="13:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CarConfig" Source="CarConfig.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CarConfig" Source="CarConfig.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CarConfig.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CarConfig.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CarConfig" Source="CarConfig.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

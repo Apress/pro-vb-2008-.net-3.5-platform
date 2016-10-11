@@ -1,0 +1,40 @@
+[FILES]
+sdkLinkmanager.html
+N_EmployeeApp.html
+Hier_N_EmployeeApp.html
+T_EmployeeApp_Employee.html
+T_EmployeeApp_Employee_Members.html
+T_EmployeeApp_Employee_Constructor.html
+C_EmployeeApp_Employee_ctor_.html
+C_EmployeeApp_Employee_ctor_c97a4a35.html
+T_EmployeeApp_Employee_Properties.html
+P_EmployeeApp_Employee_Age.html
+P_EmployeeApp_Employee_Company.html
+P_EmployeeApp_Employee_ID.html
+P_EmployeeApp_Employee_Name.html
+P_EmployeeApp_Employee_Pay.html
+P_EmployeeApp_Employee_SocialSecurityNumber.html
+T_EmployeeApp_Employee_Methods.html
+M_EmployeeApp_Employee_DisplayStats.html
+M_EmployeeApp_Employee_GiveBonus.html
+tooltip.htc
+
+[OPTIONS]
+Title=Documentation
+Auto Index=Yes
+Binary TOC=Yes
+Compatibility=1.1 or later
+Compiled file=Documentation.chm
+Default Window=MsdnHelp
+Default topic=N_EmployeeApp.html
+Display compile progress=No
+Error log file=Documentation.log
+Full-text search=Yes
+Index file=Documentation.hhk
+Language=0x409 English (United States)
+Contents file=Documentation.hhc
+
+[WINDOWS]
+MsdnHelp="Documentation Help","Documentation.hhc","Documentation.hhk","N_EmployeeApp.html","N_EmployeeApp.html",,,,,0x62520,220,0x387e,[86,51,872,558],,,,,,,0
+
+[INFOTYPES]

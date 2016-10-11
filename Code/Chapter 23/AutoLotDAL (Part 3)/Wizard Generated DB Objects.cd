@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutoLotDataSet">
+    <Position X="7.75" Y="1.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AutoLotDataSet.CustomersRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="AutoLotDataSet.InventoryRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="AutoLotDataSet.InventoryDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="AutoLotDataSet.OrdersRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="AutoLotDataSet.OrdersRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="AutoLotDataSet.OrdersRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="AutoLotDataSet.InventoryRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="AutoLotDataSet.CustomersDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="AutoLotDataSet.OrdersDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="AutoLotDataSet.CustomersRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="AutoLotDataSet.CustomersRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="AutoLotDataSet.InventoryRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAwAAgAJABAACQAAAIAgCQDgAAAAiAgEAFBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoLotConnectedLayer.InventoryDAL" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAABAAAAAAAABAAASABAIAgAAAAAAAAAAA=</HashCode>
+      <FileName>InventoryDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoLotDisconnectedLayer.InventoryDALDisLayer" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAEACACAAAAA=</HashCode>
+      <FileName>InventoryDALDisconnected.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

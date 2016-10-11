@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreditCheckApp", "CreditCheckApp.vbproj", "{30B1728C-65A5-4FAC-B1D8-73A67090D2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B1728C-65A5-4FAC-B1D8-73A67090D2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B1728C-65A5-4FAC-B1D8-73A67090D2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B1728C-65A5-4FAC-B1D8-73A67090D2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B1728C-65A5-4FAC-B1D8-73A67090D2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

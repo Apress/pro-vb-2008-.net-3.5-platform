@@ -1,0 +1,18 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="TextControls" Height="204" Width="292" WindowStartupLocation="CenterScreen" Name="Window1">
+  <StackPanel>
+    <Label FontSize ="15">Is this word spelled correctly?</Label>
+    <TextBox SpellCheck.IsEnabled ="True" AcceptsReturn ="True"
+           Name ="txtData"  FontSize ="14"
+           BorderBrush ="Blue" Height ="100">
+    </TextBox>
+    <StackPanel Orientation ="Horizontal">
+      <PasswordBox Name ="pwdText" BorderBrush ="Black" Width ="100"></PasswordBox>
+      <Button Name ="btnOK" Content ="Get Selections"
+            Width = "100" Click ="btnOK_Click"/>
+    </StackPanel>
+  </StackPanel>
+
+</Window>

@@ -1,0 +1,100 @@
+Memory before build: 980480
+Initializing Workspace
+Creating Help Project Resources
+Analyzing Assemblies & Merging XML Documentation
+Memory making xml: 1929564
+AssemblyLoader: Loading "C:\Users\Andrew Troelsen\My Books\VB 3rd Edition\Code\Chapter 5\EmployeeApp\bin\Debug\EmployeeApp.exe".
+XmlDocCommentLoader: Loaded 'C:\Users\Andrew Troelsen\My Books\VB 3rd Edition\Code\Chapter 5\EmployeeApp\bin\Debug\EmployeeApp.xml' (0.128 sec.)
+XmlDocCommentLoader: Cache 12
+Docs found : C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.xml
+XmlDocCommentLoader: Loaded 'C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.xml' (1.626 sec.)
+XmlDocCommentLoader: Cache 14000
+XmlDocCommentLoader: Loaded 'C:\Users\Andrew Troelsen\Desktop\NDoc2-Alpha3u\Configuration\Supplemental Docs\en\mscorlib.xml' (0.044 sec.)
+XmlDocCommentLoader: Cache 15022
+AssemblyLoader: Attempting to resolve "Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+AssemblyLoader: Loaded "C:/Windows/assembly/GAC_MSIL/Microsoft.VisualBasic/8.0.0.0__b03f5f7f11d50a3a/Microsoft.VisualBasic.dll"
+AssemblyLoader: Attempting to resolve "System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089".
+AssemblyLoader: Loaded "C:/Windows/assembly/GAC_MSIL/System/2.0.0.0__b77a5c561934e089/System.dll"
+Writing namespace EmployeeApp...
+    Wrote 1 classes.
+Completed EmployeeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+0.203 sec.
+MakeXML : 2.235 sec.
+Determining Document Structure
+Load Docs for Structure Production: 0.929 msec.
+Building File Map: 4.820 msec.
+Structure Production: 193.860 msec.
+Initializing Documenter
+xslt-preprocess.xslt
+retrieved xslt-preprocess.xslt from Style2005
+    topics_main.xslt
+    retrieved topics_main.xslt from common
+    retrieved common.xslt from common
+    retrieved tags.xslt from Style2005
+    retrieved blank.xslt from common
+    retrieved indices.xslt from common
+    retrieved XLinks.xslt from common
+    retrieved style-common.xslt from Style2005
+    retrieved see-also.xslt from common
+    retrieved syntax.xslt from Style2005
+    retrieved syntax-common.xslt from common
+    retrieved syntax-map.xslt from common
+    retrieved memberscommon.xslt from Style2005
+    retrieved allmembers.xslt from Style2005
+    retrieved event.xslt from common
+    retrieved field.xslt from common
+    retrieved individualmembers.xslt from Style2005
+    retrieved member.xslt from common
+    retrieved memberoverload.xslt from Style2005
+    retrieved namespace.xslt from Style2005
+    retrieved namespacehierarchy.xslt from common
+    retrieved property.xslt from common
+    retrieved type.xslt from Style2005
+    retrieved typehierarchy.xslt from Style2005
+    0.444
+    toc_htmlhelp1.xslt
+    retrieved toc_htmlhelp1.xslt from common
+    0.002
+    toc_htmlhelp2.xslt
+    retrieved toc_htmlhelp2.xslt from common
+    0.001
+    toc_web.xslt
+    retrieved toc_web.xslt from common
+    0.002
+Building stylesheets 0.486
+Building Table-of-Contents
+Building Topic Pages
+284.530   namespace   N_EmployeeApp.html
+105.709   namespacehierarchy   Hier_N_EmployeeApp.html
+374.286   type   T_EmployeeApp_Employee.html
+278.273   allmembers   T_EmployeeApp_Employee_Members.html
+22.759   individualmembers   T_EmployeeApp_Employee_Properties.html
+2.813   individualmembers   T_EmployeeApp_Employee_Methods.html
+100.720   memberoverload   T_EmployeeApp_Employee_Constructor.html
+85.949   member   C_EmployeeApp_Employee_ctor_.html
+37.972   member   C_EmployeeApp_Employee_ctor_c97a4a35.html
+131.866   property   P_EmployeeApp_Employee_Age.html
+20.746   property   P_EmployeeApp_Employee_Company.html
+1.516   property   P_EmployeeApp_Employee_ID.html
+1.673   property   P_EmployeeApp_Employee_Name.html
+14.812   property   P_EmployeeApp_Employee_Pay.html
+13.540   property   P_EmployeeApp_Employee_SocialSecurityNumber.html
+27.502   member   M_EmployeeApp_Employee_DisplayStats.html
+26.339   member   M_EmployeeApp_Employee_GiveBonus.html
+It took 2 seconds to make the html
+Completing Help Project Resources
+Compiling HTML Help file...
+Microsoft HTML Help Compiler 4.74.8702
+Compiling c:\Users\Andrew Troelsen\My Books\VB 3rd Edition\Code\Chapter 5\EmployeeApp Documentation\ndoc_msdn_temp\Documentation.chm
+Compile time: 0 minutes, 1 second
+21	Topics
+100	Local links
+0	Internet links
+15	Graphics
+Created c:\Users\Andrew Troelsen\My Books\VB 3rd Edition\Code\Chapter 5\EmployeeApp Documentation\ndoc_msdn_temp\Documentation.chm, 44,810 bytes
+Compression decreased file by 188,809 bytes.
+
+Html Help compile complete
+Writing documentation to output path
+Build Completed.
+The build took a total of 7 seconds

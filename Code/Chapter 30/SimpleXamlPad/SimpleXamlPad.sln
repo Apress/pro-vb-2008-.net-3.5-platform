@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SimpleXamlPad", "SimpleXamlPad\SimpleXamlPad.vbproj", "{6A2390B6-3664-4F7D-844C-18598589A1E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2390B6-3664-4F7D-844C-18598589A1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2390B6-3664-4F7D-844C-18598589A1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2390B6-3664-4F7D-844C-18598589A1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2390B6-3664-4F7D-844C-18598589A1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

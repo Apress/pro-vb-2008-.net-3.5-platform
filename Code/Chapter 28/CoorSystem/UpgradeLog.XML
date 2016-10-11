@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CoorSystem">
+</Property><Property Name="Solution File" Value="C:\My Books\VB and the .NET Paltform 3rd Ed\Code\Chapter 28\CoorSystem\CoorSystem.sln">
+</Property><Property Name="Date" Value="Saturday, December 01, 2007">
+</Property><Property Name="Time" Value="20:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CoorSystem" Source="CoorSystem.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CoorSystem" Source="CoorSystem.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CoorSystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CoorSystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CoorSystem" Source="CoorSystem.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

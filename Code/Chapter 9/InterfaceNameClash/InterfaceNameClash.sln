@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InterfaceNameClash", "InterfaceNameClash.vbproj", "{3B8C68B8-32ED-4E34-96BF-D960523EDF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8C68B8-32ED-4E34-96BF-D960523EDF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8C68B8-32ED-4E34-96BF-D960523EDF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8C68B8-32ED-4E34-96BF-D960523EDF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8C68B8-32ED-4E34-96BF-D960523EDF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
